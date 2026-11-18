@@ -54,7 +54,7 @@ All queries are in [`sql/churn_analysis_queries.sql`](sql/churn_analysis_queries
 KPI cards: Total Customers, Churn Customers, Retained Customers, Churn Rate, Total Revenue, Average Monthly Charges, Average Tenure.
 Visuals: churn by contract, subscription and tenure, state map, internet service and payment method donuts, monthly charges vs churn scatter.
 
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.png)
 
 ## Key Insights
 - Overall churn rate is **23.7%**.

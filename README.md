@@ -96,4 +96,4 @@ customer-churn-analysis/
 4. Open the `.pbix` file in Power BI Desktop to explore the dashboard.
 
 ## Author
-**[Your Name]** | [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email)
+**[Ayan_Shaikh]** | [LinkedIn](www.linkedin.com/in/ayan-shaikh-0796072a3) | [Email](ayanshaikh64121@gmail.com)
